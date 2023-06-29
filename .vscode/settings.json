@@ -1,0 +1,18 @@
+{
+    "editor.fontSize": 14,
+    "workbench.preferredDarkColorTheme": "Hack The Box-Lite",
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "editor.fontWeight": "600",
+    "editor.lineHeight": 20,
+    "editor.letterSpacing": 0.5,
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.cursorBlinking": "smooth",
+    "explorer.autoReveal": true,
+    "editor.fontFamily": "Monaco, 'Courier New', monospace",
+    "errorLens.fontWeight": "bold",
+    "cSpell.words": [
+        "OHLC"
+    ],
+}
