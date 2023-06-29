@@ -1,6 +1,6 @@
 # cryptocurrency app
 
-![Project!](overview.png)
+![Project!](overview.jpg)
 
 Flutter cryptocurrency application for showing some markets status and crypto prices with linear and candlestick chart with ability of time period filtering.
 
